@@ -1,2 +1,3 @@
 # snakeGameJava
-Coded along with Bro Code
+
+Made with Java
